@@ -3,6 +3,7 @@
 The following project uses Python and SQLAlchemy to conduct a basic weather data analysis to help plan a fictional trip. The results are consolidated into json format and pushed via an API SQLite Connection onto a landing page using Flask.
 
 **ANALYSIS TASKS**
+
 Precipitation Analysis Tasks
 * Create a query that finds the most recent date in the dataset
 * Create a query that collects only the date and precipitation for the last year of data
@@ -20,6 +21,7 @@ Station and Temperature Analysis Tasks
 * Plot a histogram for the last year of data using tobs as the column to count.
 
 **FLASK TASKS**
+
 API SQLite Connection & Landing Page Tasks
 * Generate the engine
 * Reflect the database schema
